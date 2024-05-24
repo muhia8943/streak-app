@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "f9ff",
+      "habit": "jaba",
+      "dateStopped": "2024-05-23"
+    },
+    {
+      "id": "a632",
+      "habit": "MMM",
+      "dateStopped": "2024-05-15"
+    },
+    {
+      "id": "abbd",
+      "habit": "smoking",
+      "dateStopped": "2024-05-24"
+    },
+    {
+      "id": "652c",
+      "habit": "drinking",
+      "dateStopped": "2024-05-31"
+    },
+    {
+      "id": "5335",
+      "habit": "laughing",
+      "dateStopped": "2024-05-23"
+    },
+    {
+      "id": "35d4",
+      "habit": "gaming",
+      "dateStopped": "2024-05-31"
+    },
+    {
+      "id": "9b38",
+      "habit": "gossips",
+      "dateStopped": "2024-05-29"
+    },
+    {
+      "id": "96ad",
+      "habit": "swimming",
+      "dateStopped": "2024-05-30"
+    }
+  ]
+}

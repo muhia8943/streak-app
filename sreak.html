@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>streakapp</title>
+    <link rel="stylesheet" href="streak.css">
+</head>
+<body>
+    <div class="orange">
+        <div class="forms">
+            <p>Add Habit Stopped</p>
+            <form id="habitForm">
+                <label for="habit">habit:</label><br>
+                <input type="text" id="habit" name="habit"><br>
+                
+                <label for="date stopped">date stopped:</label><br>
+                <input type="date" id="datestopped" name="date stopped"><br>
+                <button id="btn" type="submit" onclick="displayHabit()"><ion-icon name="add-circle-outline"></ion-icon>submit</button>
+            </form>
+        </div>
+        <div class="phone">
+            <img src="imgs/1568227546000_IMG_1250525.jpg" alt="">
+        </div>
+        <div class="welcome">
+            <h2>Welcome to my Streak Counter</h2>
+        </div>
+    </div>
+    <div class="acts">
+        <h2>Activities</h2>
+    </div>
+    <div class="habits">
+        
+    </div>
+    <script src="dist/script.js"></script>
+    
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
